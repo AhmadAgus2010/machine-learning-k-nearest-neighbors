@@ -1,2 +1,2 @@
-# machine-learning-ex3
-Machine Learning - Ex3
+# Machine Learning
+## Working on the Iris flowers data-set.
